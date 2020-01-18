@@ -43,7 +43,7 @@ svg {
   margin: 0 auto;
   line-height: normal;
 }
-@media (max-width: 767px) {
+@media (max-width: 1000px) {
   .header-container p, h1, h4 {
     padding: 0 20px 0;
   }
@@ -187,8 +187,13 @@ svg {
     padding: 80px 0 200px;
   }
 }
-@media (max-width: 767px) {
+@media (max-width: 1000px) {
   .about-bts, .about-credits {
+    margin-top: 25px;
+  }
+}
+@media (max-width: 1500px) {
+  .about-credits {
     margin-top: 25px;
   }
 }
