@@ -115,11 +115,11 @@ svg {
 
 /* ABOUT */
 .about-grid {
-  top: -50px;
-  margin-bottom: -50px;
+  top: -80px;
+  margin-bottom: -80px;
   position: relative;
   background-color: #a2d9ff;
-  padding: 100px 0 100px;
+  padding: 5px 0 200px;
   display: flex;
   justify-content: space-around;
   flex-wrap: wrap;
