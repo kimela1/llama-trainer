@@ -75,7 +75,7 @@ svg {
 @media (max-width: 900px) {
   .expectations {
     padding: 20px 20px 0;
-    background: none;
+    background-size: 120px;
   }
 }
 
@@ -128,11 +128,11 @@ svg {
   background-repeat: no-repeat;
   background-attachment: fixed;
   background-position: center;
-  background-size: 220px;
+  background-size: 200px;
 }
 @media (max-width: 480px) {
   .page-break {
-    background: none;
+    background-size: 120px;
   }
 }
 
