@@ -65,20 +65,18 @@ svg {
 }
 
 
-/* INSTRUCTIONS */
-.instructions {
-  background-color: #a2d9ff;
-  border-bottom-left-radius: 5%;
-  border-bottom-right-radius: 2%;
-}
-.slideshow-container {
+/* SLIDESHOW INSTRUCTIONS */
+.slideshow-container{
   position: relative;
-  background: #a2d9ff;
+  top: -30px;
+  margin-bottom: -30px;
 }
 .mySlides {
   display: none;
-  padding: 80px;
+  padding: 0 40px 80px;
   text-align: center;
+  background: #a2d9ff;
+
 }
 .dot-container {
     text-align: center;
@@ -112,16 +110,16 @@ svg {
   background-position: center;
   background-size: 220px;
 }
-.page-break2 {
-  padding: 100px 0 100px;
-  background-color: #a2d9ff;
-}
+
 
 
 /* ABOUT */
 .about-grid {
+  top: -50px;
+  margin-bottom: -50px;
+  position: relative;
   background-color: #a2d9ff;
-  padding: 100px 0 0;
+  padding: 100px 0 100px;
   display: flex;
   justify-content: space-around;
   flex-wrap: wrap;
