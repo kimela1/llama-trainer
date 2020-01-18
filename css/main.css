@@ -72,9 +72,10 @@ svg {
   margin: 0 auto;
   padding-top: 10px;
 }
-@media (max-width: 767px) {
+@media (max-width: 900px) {
   .expectations {
     padding: 20px 20px 0;
+    background: none;
   }
 }
 
@@ -129,6 +130,11 @@ svg {
   background-position: center;
   background-size: 220px;
 }
+@media (max-width: 480px) {
+  .page-break {
+    background: none;
+  }
+}
 
 
 
@@ -181,6 +187,11 @@ svg {
   justify-content: center;
   align-items: center;
   text-align: center;
+}
+@media (max-width: 480px) {
+  .about-credits {
+  padding: 30p 50px 30px;
+  }
 }
 @media (max-width: 767px) {
   .about-grid {
