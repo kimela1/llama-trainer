@@ -36,6 +36,7 @@ svg {
 }
 .header-container p {
   color: rgba(255, 254, 254, 0.719);
+  padding: 0 310px 0;
 }
 .header-container h4, h1, p {
   display: table;
@@ -115,8 +116,8 @@ svg {
 
 /* ABOUT */
 .about-grid {
-  top: -80px;
-  margin-bottom: -80px;
+  top: -50px;
+  margin-bottom: -50px;
   position: relative;
   background-color: #a2d9ff;
   padding: 5px 0 200px;
