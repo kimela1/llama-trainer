@@ -84,7 +84,7 @@ svg {
 .slideshow-container{
   position: relative;
   top: -30px;
-  margin-bottom: -30px;
+  margin-bottom: -50px;
 }
 .mySlides {
   display: none;
@@ -126,13 +126,13 @@ svg {
   background-color: white;
   background-image: url(/images/llama4.svg);
   background-repeat: no-repeat;
-  background-attachment: fixed;
+  background-attachment: scroll;
   background-position: center;
   background-size: 200px;
 }
 @media (max-width: 480px) {
   .page-break {
-    background-size: 120px;
+    background-size: 150px;
   }
 }
 
