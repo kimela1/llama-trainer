@@ -135,7 +135,7 @@ svg {
   background-position: center;
   background-size: 200px;
 }
-@media (max-width: 480px) {
+@media (max-width: 412px) {
   .page-break {
     background-size: 150px;
   }
@@ -196,7 +196,7 @@ svg {
   align-items: center;
   text-align: center;
 }
-@media (max-width: 480px) {
+@media (max-width: 412px) {
   .about-why {
     height: 350px;
   }
