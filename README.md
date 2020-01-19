@@ -11,7 +11,7 @@ There is never a dull day while learning front end development. The possibilites
 
 ## Behind the scenes
 * A fun, responsive, single-page web app
-* With the help of media queries and flexbox, view this site anywhere, anytime
+* View this site anywhere, anytime with the help of media queries and flexbox
 * Experimented with svg images, padding, and margins to create unique shapes for a fun background
 * Used jQuery to simplify the animation of the scroll to top button
 * Added some flair to the instruction section with some JavaScript
