@@ -51,6 +51,11 @@ svg {
     text-align: center;
   }
 }
+@media (max-width: 480px) {
+  .header-container {
+    padding-bottom: 100px;
+  }
+}
 
 
 /* EXPECTATIONS */
@@ -192,15 +197,15 @@ svg {
   text-align: center;
 }
 @media (max-width: 480px) {
-  .about-credits {
-    padding: 30p 50px 30px;
-    height: 300px;
+  .about-why {
+    height: 350px;
   }
   .about-bts{
-    height: 450px;
+    height: 370px;
   }
-  .about-why {
-    height: 400px;
+  .about-credits {
+    padding: 30p 50px 30px;
+    height: 280px;
   }
 }
 @media (max-width: 767px) {
