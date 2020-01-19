@@ -16,7 +16,7 @@ There is never a dull day while learning front end development. The possibilites
 * Used jQuery to simplify the animation of the scroll to top button
 * Added some flair to the instruction section with some JavaScript
 
-## Acknowledgments
+## Acknowledgements
 * [Flaticon](https://www.flaticon.com/authors/freepik) - cute llama svgs
 * [LLamas-Information](http://www.llamas-information.com/llama-training/llama-training-what-you-should-teach-your-llamas/) - pro tips
 * [Border Llamas](http://www.borderllamas.com/llama%20training%20tips.htm) - more pro tips
