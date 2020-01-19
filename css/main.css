@@ -151,7 +151,7 @@ svg {
 }
 .about-why {
   width: 400px;
-  height: 350px;
+  height: 320px;
   padding: 30px;
   border-bottom-left-radius: 500px 100px;
   border-bottom-right-radius: 200px 800px;
@@ -194,9 +194,13 @@ svg {
 @media (max-width: 480px) {
   .about-credits {
     padding: 30p 50px 30px;
+    height: 300px;
   }
-  .about-bts, .about-why {
+  .about-bts{
     height: 450px;
+  }
+  .about-why {
+    height: 400px;
   }
 }
 @media (max-width: 767px) {
