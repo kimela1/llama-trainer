@@ -7,7 +7,7 @@ Dealing with disobedience? No prob llama! Our experienced team has been training
 * 
 
 ## Why front end?
-There is never a dull day while learning front-end development. For example, a to do list may be one of the most overdone app, but the app could be built so many different ways using different web technologies. The possibilites are seemingly endless and there is always more to learn. Even while working on this website I was able to experiment and learn new things. It's always exciting to try something new! Once I complete a project, I enjoy looking over my project and being able to see the effort I've put into it.
+There is never a dull day while learning front end development. The possibilites are seemingly endless and there is always more to learn. For example, a to do list may be one of the most overdone apps, but it can be built so many different ways with various web technologies. Even while working on this site, I was able to experiment and learn new things. It's always exciting to try something new! Once a project is completed, it's always a satisfying moment to see the effort I've put into it.
 
 ## Behind the scenes
 * A fun, responsive, single-page web app
