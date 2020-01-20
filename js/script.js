@@ -60,18 +60,3 @@ ScrollReveal().reveal('.about-credits', {
   distance : '10px',
   easing: 'ease-in-out'
 })
-ScrollReveal().reveal('.sub-title', {
-  delay: 50,
-  distance : '10px',
-  easing: 'ease-in-out'
-})
-ScrollReveal().reveal('.title', {
-  delay: 100,
-  distance : '15px',
-  easing: 'ease-in-out'
-})
-ScrollReveal().reveal('.header-paragraph', {
-  delay: 150,
-  distance : '20px',
-  easing: 'ease-in-out'
-})
