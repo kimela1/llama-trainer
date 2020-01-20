@@ -1,4 +1,10 @@
-// Animate the scroll to top
+/* Reveal on scroll */
+ScrollReveal({ duration: 1200 })
+ScrollReveal().reveal('.about-why');
+ScrollReveal().reveal('.about-bts', {delay: 200});
+ScrollReveal().reveal('.about-credits', {delay: 300})
+
+/* Animate the scroll to top */
 $('.back-to-top').on('click', function(event) {
   event.preventDefault();
   
@@ -8,7 +14,7 @@ $('.back-to-top').on('click', function(event) {
 });
 
 
-// Slideshow
+/* Slideshow */
 var slideIndex = 1;
 showSlides(slideIndex);
 
