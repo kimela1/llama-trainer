@@ -37,5 +37,5 @@ function showSlides(n) {
 }
 
 
-// Initialize AOS
-AOS.init();
+// Initialize AOS library
+AOS.init({disable: 'mobile'});
