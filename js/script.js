@@ -2,20 +2,22 @@
 ScrollReveal({duration: 2000 })
 ScrollReveal().reveal('.about-why', {
   reset: true,
-  distance : '10px',
-  easing: 'ease-in'
+  origin: screenLeft,
+  distance : '100px',
+  easing: 'ease-out'
 });
 ScrollReveal().reveal('.about-bts', {
   delay: 200,
   reset: true,
-  distance : '10px',
-  easing: 'ease-in'
+  distance : '100px',
+  easing: 'ease-out'
 });
 ScrollReveal().reveal('.about-credits', {
   delay: 250,
   reset: true,
-  distance : '10px',
-  easing: 'ease-in'
+  origin: screenLeft,
+  distance : '100px',
+  easing: 'ease-out'
 })
 
 /* Animate the scroll to top */
