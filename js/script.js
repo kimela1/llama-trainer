@@ -38,5 +38,7 @@ function showSlides(n) {
 
 
 // Initialize AOS library
-AOS.init();
-window.addEventListener('load', AOS.refresh);
+AOS.init({
+  disable: 'tablet',
+  disable: 'mobile'
+});
