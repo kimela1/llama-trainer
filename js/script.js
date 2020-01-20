@@ -38,6 +38,5 @@ function showSlides(n) {
 
 
 // Initialize AOS library
-AOS.init({
-  startEvent: 'load'
-});
+AOS.init();
+window.addEventListener('load', AOS.refresh);
