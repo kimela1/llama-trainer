@@ -1,5 +1,5 @@
 # llama trainer 🦙 
-Dealing with disobedience? No prob llama! This guide will lay out exactly how to train your llama to be the perfect companion. There is more to llamas than long eyelashes and a smug expression.
+Dealing with disobedience? No prob llama! This [guide](http://llamatrainer.herokuapp.com/) will lay out exactly how to train your llama to be the perfect companion. There is more to llamas than long eyelashes and a smug expression.
 
 ## Who am I?
 * Junior at Oregon State University
