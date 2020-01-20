@@ -27,28 +27,6 @@ function showSlides(n) {
 }
 
 
-/* Reveal on scroll */
-ScrollReveal({duration: 2000 })
-ScrollReveal().reveal('.about-why', {
-  reset: true,
-  origin: screenLeft,
-  distance : '100px',
-  easing: 'ease-out'
-});
-ScrollReveal().reveal('.about-bts', {
-  delay: 200,
-  reset: true,
-  distance : '100px',
-  easing: 'ease-out'
-});
-ScrollReveal().reveal('.about-credits', {
-  delay: 250,
-  reset: true,
-  origin: screenLeft,
-  distance : '100px',
-  easing: 'ease-out'
-})
-
 /* Animate the scroll to top */
 $('.back-to-top').on('click', function(event) {
   event.preventDefault();
@@ -57,3 +35,29 @@ $('.back-to-top').on('click', function(event) {
       scrollTop: 0,
   }, 1000);
 });
+
+
+/* Reveal on scroll */
+ScrollReveal({
+  duration: 1000
+})
+ScrollReveal().reveal('.about-why', {
+  reset: true,
+  origin: screenLeft,
+  distance : '10px',
+  easing: 'ease-in-out'
+});
+ScrollReveal().reveal('.about-bts', {
+  delay: 200,
+  reset: true,
+  distance : '10px',
+  easing: 'ease-in-out'
+});
+ScrollReveal().reveal('.about-credits', {
+  delay: 250,
+  reset: true,
+  origin: screenLeft,
+  distance : '10px',
+  easing: 'ease-in-out'
+})
+
