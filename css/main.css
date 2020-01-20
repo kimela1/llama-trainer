@@ -151,7 +151,7 @@ svg {
   margin-bottom: -50px;
   position: relative;
   background-color: #a2d9ff;
-  padding: 5px 0 200px;
+  padding: 5px 0 100px;
   display: flex;
   justify-content: space-around;
   flex-wrap: wrap;
@@ -171,7 +171,7 @@ svg {
 }
 .about-bts {
   width: 400px;
-  height: 350px;
+  height: 380px;
   padding: 30px;
   border-bottom-left-radius: 200px 100px;
   border-bottom-right-radius: 200px 100px;
@@ -203,7 +203,7 @@ svg {
     height: 350px;
   }
   .about-bts{
-    height: 370px;
+    height: 490px;
   }
   .about-credits {
     padding: 30p 50px 30px;
@@ -212,17 +212,17 @@ svg {
 }
 @media (max-width: 767px) {
   .about-grid {
-    padding: 80px 0 200px;
+    padding: 80px 0 100px;
   }
 }
 @media (max-width: 1024px) {
   .about-bts, .about-credits {
-    margin-top: 25px;
+    margin-top: 30px;
   }
 }
 @media (min-width: 1025px) and (max-width: 1500px) {
   .about-credits {
-    margin-top: 25px;
+    margin-top: 30px;
   }
 }
 

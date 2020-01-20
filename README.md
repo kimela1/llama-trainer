@@ -14,7 +14,8 @@ There is never a dull day while learning front end development. The possibilites
 * View this site anywhere, anytime with the help of media queries and flexbox
 * Experimented with svg images, padding, and margins to create unique shapes for a fun background
 * Used jQuery to simplify the animation of the scroll to top button
-* Added some flair to the instruction section with some JavaScript
+* Added some flair to the guide section with JavaScript
+* Utilized the JavaScript animation library, ScrollReveal, to spice things up
 
 ## Acknowledgements
 * [Flaticon](https://www.flaticon.com/authors/freepik) - cute llama svgs

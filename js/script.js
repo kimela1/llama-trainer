@@ -60,4 +60,3 @@ ScrollReveal().reveal('.about-credits', {
   distance : '10px',
   easing: 'ease-in-out'
 })
-
