@@ -1,4 +1,4 @@
-# llama trainer
+# 🦙 llama trainer
 Dealing with disobedience? No prob llama! Our experienced team has been training llamas for generations. We've seen and experienced it all! This guide will lay out exactly how to train your llama to be the perfect companion.
 
 ## Who am I?
