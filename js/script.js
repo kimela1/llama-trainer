@@ -1,8 +1,8 @@
 /* Reveal on scroll */
-ScrollReveal({ duration: 1200 })
-ScrollReveal().reveal('.about-why');
-ScrollReveal().reveal('.about-bts', {delay: 200});
-ScrollReveal().reveal('.about-credits', {delay: 300})
+ScrollReveal({ duration: 1400 })
+ScrollReveal().reveal('.about-why', {reset: true, easing: 'ease-in'});
+ScrollReveal().reveal('.about-bts', {delay: 100, reset: true, easing: 'ease-in'});
+ScrollReveal().reveal('.about-credits', {delay: 150, reset: true, easing: 'ease-in'})
 
 /* Animate the scroll to top */
 $('.back-to-top').on('click', function(event) {
