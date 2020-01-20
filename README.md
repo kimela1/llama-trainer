@@ -21,4 +21,4 @@ There is never a dull day while learning front end development. The possibilites
 * [Flaticon](https://www.flaticon.com/authors/freepik) - cute llama svgs
 * [LLamas-Information](http://www.llamas-information.com/llama-training/llama-training-what-you-should-teach-your-llamas/) - pro tips
 * [Border Llamas](http://www.borderllamas.com/llama%20training%20tips.htm) - more pro tips
-* 🦙 - source of inspiration
+* [🦙](https://unsplash.com/s/photos/llama) - source of inspiration
