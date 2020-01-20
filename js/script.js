@@ -1,8 +1,22 @@
 /* Reveal on scroll */
-ScrollReveal({ duration: 1400 })
-ScrollReveal().reveal('.about-why', {reset: true, easing: 'ease-in'});
-ScrollReveal().reveal('.about-bts', {delay: 100, reset: true, easing: 'ease-in'});
-ScrollReveal().reveal('.about-credits', {delay: 150, reset: true, easing: 'ease-in'})
+ScrollReveal({duration: 2000 })
+ScrollReveal().reveal('.about-why', {
+  reset: true,
+  distance : '10px',
+  easing: 'ease-in'
+});
+ScrollReveal().reveal('.about-bts', {
+  delay: 200,
+  reset: true,
+  distance : '10px',
+  easing: 'ease-in'
+});
+ScrollReveal().reveal('.about-credits', {
+  delay: 250,
+  reset: true,
+  distance : '10px',
+  easing: 'ease-in'
+})
 
 /* Animate the scroll to top */
 $('.back-to-top').on('click', function(event) {
