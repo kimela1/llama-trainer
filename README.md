@@ -4,7 +4,6 @@ Dealing with disobedience? No prob llama! This guide will lay out exactly how to
 
 ## Who am I?
 * Junior at Oregon State University
-* Aspiring front end developer
 * Inspired by the work that goes into creating and updating websites to improve the user experience
 
 ## Why front end?
