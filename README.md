@@ -2,13 +2,6 @@
 Dealing with disobedience? No prob llama! This guide will lay out exactly how to train your llama to be the perfect companion. There is more to llamas than long eyelashes and a smug expression.
 [View here](http://llamatrainer.herokuapp.com/)
 
-## Who am I?
-* Junior at Oregon State University
-* Inspired by the work that goes into creating and updating websites to improve the user experience
-
-## Why front end?
-There is never a dull day while learning front end development. The possibilities are seemingly endless and there is always more to learn. For example, a to do list may be overdone, but it can be built so many different ways with various web technologies. Even while working on this website I was able to experiment and learn new things. It's always exciting to tackle new challenges!
-
 ## Behind the scenes
 * A fun, responsive, single-page website
 * View this site anywhere, anytime with the help of media queries and flexbox
